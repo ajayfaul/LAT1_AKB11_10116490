@@ -8,3 +8,10 @@
     * FirstActivity UI
     * Add Asset (Image, font & color)
     * Add some style resource
+
+
+* Version 0.2:
+    * Add LoginCodeActivity
+    * Add BiodataActivity
+    * Add Intent
+    * Add some style resource
