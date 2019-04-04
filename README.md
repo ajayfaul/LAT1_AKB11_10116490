@@ -23,3 +23,4 @@
 * Version 0.4:
     * Fix View
     * Refactor and rename
+    * add some function
