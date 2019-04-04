@@ -1,4 +1,4 @@
-package com.morningstar.pretest_akb11_10116490;
+package com.morningstar.lat1_akb11_10116490;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
