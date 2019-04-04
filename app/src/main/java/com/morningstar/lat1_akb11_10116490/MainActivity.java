@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.Button;
 
 /*
+ * Created Bye
+ *
  * NIM     : 10116490
  * Nama    : Muhammad Fajar Maulana
  * Kelas   : IF-11 / AKB-11
