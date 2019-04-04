@@ -1,4 +1,4 @@
-# PRETEST_AKB11_10116490
+# LAT1_AKB11_10116490
 
 *Aplikasi Tugas Pretest Aplikasi Komputasi Bergerak*
 
