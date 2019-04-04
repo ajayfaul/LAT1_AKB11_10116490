@@ -31,7 +31,6 @@ public class LoginCode extends AppCompatActivity implements View.OnClickListener
         btn_BeliKode = findViewById(R.id.btnBeliKode);
         btn_BeliKode.setOnClickListener(this);
 
-
     }
 
     @Override

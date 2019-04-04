@@ -55,10 +55,10 @@ Tanggal : 4-April-2019
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:background="@drawable/button_gradient_rounded_corner"
-            android:text="@string/mulai"
             android:fontFamily="@font/nunito_bold"
+            android:text="@string/mulai"
             android:textAllCaps="false"
-            android:textSize="18sp"/>
+            android:textSize="18sp" />
 
     </RelativeLayout>
 
