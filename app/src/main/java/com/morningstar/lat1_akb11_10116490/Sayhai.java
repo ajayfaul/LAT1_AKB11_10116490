@@ -1,5 +1,6 @@
 package com.morningstar.lat1_akb11_10116490;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -38,8 +39,9 @@ public class Sayhai extends AppCompatActivity {
         btn_SayHai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(Sayhai.this, MainActivity.class);
-                startActivity(i);
+                moveTaskToBack(true);
+                //finish();
+                //System.exit(0);
             }
         });
     }
