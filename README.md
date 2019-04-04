@@ -15,3 +15,11 @@
     * Add BiodataActivity
     * Add Intent
     * Add some style resource
+
+* Version 0.3:
+    * Fix Intent
+    * Fix Validation
+
+* Version 0.4:
+    * Fix View
+    * Refactor and rename
