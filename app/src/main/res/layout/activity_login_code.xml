@@ -60,6 +60,7 @@
             android:layout_marginTop="20dp"
             android:textAlignment="center"
             android:textSize="12sp"
+            android:fontFamily="@font/rubik_regular"
             android:text="@string/descKebijakan"/>
 
         <Button
@@ -98,8 +99,8 @@
             android:layout_below="@+id/tvBelumPunyKode"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
             android:background="@drawable/button2_gradient_rounded_corner"
             android:text="@string/beli_kode_keluarga_disini"
             android:textColor="@color/whitetree"

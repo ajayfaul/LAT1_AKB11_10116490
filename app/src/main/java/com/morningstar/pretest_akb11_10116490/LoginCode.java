@@ -6,6 +6,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/*
+ * NIM     : 10116490
+ * Nama    : Muhammad Fajar Maulana
+ * Kelas   : IF-11 / AKB-11
+ * Tanggal : 3-April-2019
+ *
+ * */
 public class LoginCode extends AppCompatActivity implements View.OnClickListener {
 
     Button btn_Masuk, btn_BeliKode;
@@ -27,7 +34,7 @@ public class LoginCode extends AppCompatActivity implements View.OnClickListener
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()){
+        switch (v.getId()) {
             case R.id.btnMasuk:
                 Intent moveIntent = new Intent(LoginCode.this, Biodata.class);
                 startActivity(moveIntent);

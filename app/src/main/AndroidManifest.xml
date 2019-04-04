@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginCode"></activity>
+        <activity android:name=".Sayhai"></activity>
+        <activity android:name=".LoginCode" />
         <activity android:name=".Biodata" />
         <activity
             android:name=".MainActivity"

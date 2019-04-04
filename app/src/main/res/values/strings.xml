@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">PRETEST_AKB11_10116490</string>
-    <string name="monitory_membantu_anda_mengontrol_hp_anak">Monitory Membantu Anda Mengontrol HP Anak</string>
+    <string name="monitory_membantu_anda_n_mengontrol_hp_anak">Monitory Membantu Anda   Mengontrol HP Anak</string>
     <string name="mulai">Mulai</string>
     <string name="kode_keluarga">Kode Keluarga</string>
     <string name="descKebijakan">
@@ -16,4 +16,6 @@
     <string name="selanjutnya">Selanjutnya</string>
     <string name="contoh_12">Contoh : 12</string>
     <string name="contoh_budi">Contoh : Budi</string>
+    <string name="oke">Oke</string>
+
 </resources>
