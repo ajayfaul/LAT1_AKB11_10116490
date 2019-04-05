@@ -24,3 +24,8 @@
     * Fix View
     * Refactor and rename
     * add some function
+    
+* Version 0.5:
+    * Fix View
+    * Fix TextView
+    * Fix and add some function
