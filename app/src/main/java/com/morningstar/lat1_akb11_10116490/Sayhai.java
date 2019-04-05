@@ -39,9 +39,10 @@ public class Sayhai extends AppCompatActivity {
         btn_SayHai.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                moveTaskToBack(true);
-                //finish();
-                //System.exit(0);
+                Intent intent = new Intent(Sayhai.this, MainActivity.class);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                intent.putExtra("EXIT", true);
+                startActivity(intent);
             }
         });
     }

@@ -11,8 +11,7 @@ Tanggal : 4-April-2019
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="vertical"
-    android:background="@color/whitetree">
+    android:orientation="vertical">
 
     <RelativeLayout
         android:layout_weight="0.1"

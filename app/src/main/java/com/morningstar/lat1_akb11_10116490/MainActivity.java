@@ -24,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        if (getIntent().getBooleanExtra("EXIT", false))
+        {
+            finish();
+        }
 
         btn_Mulai = (Button) findViewById(R.id.btnMulai);
         btn_Mulai.setOnClickListener(new View.OnClickListener() {
@@ -34,5 +38,4 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
 }

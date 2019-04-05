@@ -65,9 +65,11 @@ Tanggal : 4-April-2019
             android:layout_below="@+id/edtKodeKeluarga"
             android:layout_marginTop="20dp"
             android:textAlignment="center"
+            android:gravity="center"
             android:textSize="12sp"
             android:fontFamily="@font/rubik_regular"
-            android:text="@string/descKebijakan"/>
+            android:textColor="@color/Hitam"
+            />
 
         <Button
             android:id="@+id/btnMasuk"
